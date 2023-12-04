@@ -11,6 +11,6 @@
 
 - **2) Manual testing of mobile applications**<br>
   **Final project:** Testing a test bike rental application:<br>
-  <a href="https://drive.google.com/file/d/1n8--NO0UZCrO_kGZ417NMAB4hhsMPDx3/view?usp=drive_link" target="_blank" alt="Certificat"/>The certificate is Mobile.Testing.pdf</a><span> / </span>
+  <a href="https://drive.google.com/file/d/1n8--NO0UZCrO_kGZ417NMAB4hhsMPDx3/view?usp=drive_link" target="_blank" alt="Certificat"/>The certificate Mobile.Testing.pdf</a><span> / </span>
   <a href="https://brinza-anna.atlassian.net/jira/software/projects/DIPLOMA2/boards/3" target="_blank" alt="Certificat"/>Link to the Jira board</a><span> / </span>
   <a href="https://drive.google.com/drive/folders/11NmGCyz0G8J6QUA1AAfwvvHkjht8kvz2" target="_blank" alt="Certificat"/>State diagram</a><br>Checking it for compliance with the requirements for functionality, appearance and UX (ease of use) stated in the specification.
