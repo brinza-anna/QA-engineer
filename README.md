@@ -1,4 +1,4 @@
-<h1 align="center">QA-engineer</h1>
+<h1 align="center">QA-engineer<a href="https://brinza-anna.github.io/QA-portfolio" target="_blank" alt="Certificat"/>My Portfolio</a></h1>
 <h3 align="center">My final Skillbox testing projects</h3>
 
 - **1) Manual testing of web applications**<br>
