@@ -686,7 +686,7 @@ a {
 .about {
   padding: 35px 0;
   background-color: var(--gray-light);
-  background-image: url(../../img/gallery-bg@1024.jpg);
+  background-image: url(../img/gallery-bg@1024.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -993,7 +993,7 @@ a {
 }
 .modal .graph-modal__container--last-slide-bg {
   border: 3px solid var(--aqua);
-  background-image: url(../../img/events@1920-pic-1.jpg);
+  background-image: url(../img/events@1920-pic-1.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
